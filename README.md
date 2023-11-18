@@ -66,6 +66,8 @@ Image stitching adalah proses menggabungkan beberapa gambar yang saling tumpang 
     else:
             print("[INFO] image stitching failed ({})".format(status))
             
+     
+    
  # Execute the Code
  1. Langkah selanjutnya jalankan codingan pythonnya
     ```
