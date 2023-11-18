@@ -2,11 +2,11 @@
 # Cara Image Stitching dengan Menggunakan Python dan OpenCV
 Image stitching adalah proses menggabungkan beberapa gambar yang saling tumpang tindih menjadi satu gambar yang lebih besar dan utuh. Gambar yang digunakan dalam proses ini biasanya diambil dari sudut pandang atau posisi yang berbeda, dan seringkali memiliki tumpang tindih atau area bersama. Tujuan utama dari image stitching adalah membuat gambar yang lebih lengkap atau lebih luas daripada yang dapat dihasilkan oleh satu gambar saja.
 # Daftar isi
-- [Tools Requirements]
-- [Input Image]
-- [Codingan Python]
-- [Execute the Code]
-- [Output]
+- [Tools Requirements](Tools-Requirements)
+- [Input Image](Input-Image)
+- [Codingan Python](Codingan-Python)
+- [Execute the Code](Execute-the-Code)
+- [Output](Output)
 
 # Tools Requirements
 1. Pertama-tama, sebelumnya pastikan update terlebih dahulu Operating Sistem dengan cara
